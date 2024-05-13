@@ -1,6 +1,6 @@
 # Primo JWK Auth Example
 
-This is a supplement to an ELUNA 2024 Developers Day presentation. It's a somewhat pointless, but hopefully instructive, example of using a Primo institution's [JWKS](https://datatracker.ietf.org/doc/html/rfc7517) to validate tokens for external integrations. 
+This is a supplement to an ELUNA 2024 Developers Day [presentation](slides.pdf). It's a somewhat pointless, but hopefully instructive, example of using a Primo institution's [JWKS](https://datatracker.ietf.org/doc/html/rfc7517) to validate tokens for external integrations. 
 
 *Note: This project is intended to serve as a didactic demonstration. If you really wanted to implement this feature, it'd be easier (and more sensible) to just use Primo's built-in `LoanService`.*
 
